@@ -9,3 +9,6 @@ Cyril
 Dayo
 Ndudi
 Clementina
+Bingo
+Django
+Simba
